@@ -7,5 +7,5 @@
 
 
 ## Unit Test
-1. Run *npm test* to run unit test
-1. press *a* to run all tests.
+1. Run `npm test` to run unit test
+1. press `a` to run all tests.
